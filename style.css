@@ -10,7 +10,7 @@ body {
 	grid-template-columns: 2.5em 2.5em 2.5em 2.5em;
 	grid-template-rows: 2.5em 2.5em 2.5em 2.5em;
 	justify-content: center;
-	grid-gap: 3px;
+	grid-gap: 5px;
 	width: 12.5em;
 	height : 4em;
 	margin : auto;
@@ -24,13 +24,17 @@ body {
 	border-radius: 50%;
 	grid-gap: 0;
 	border-style: solid;
-	border-color: #ff0;
+	border-color: yellow;
 	text-decoration-color: white;
 }
 .items{
 	padding: auto;
 	margin: auto;
 	
+}
+
+section {
+	margin: 70px auto;
 }
 
 
