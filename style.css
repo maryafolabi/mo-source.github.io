@@ -25,6 +25,7 @@ body {
 	grid-gap: 0;
 	border-style: solid;
 	border-color: yellow;
+	border-width: 3px;
 	text-decoration-color: white;
 }
 .items{
